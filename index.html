@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maze Game</title>
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<button onclick="Game()">start</button>
+
+	<div id="gameWrapper" width="1000" height="1000">
+		<div style="position: relative;">
+			<canvas id="grassLayer" width="1000" height="800"></canvas>
+			<canvas id="playerLayer" width="1000" height="800"></canvas>
+			<canvas id="ghostLayer" width="1000" height="800"></canvas>
+			
+		</div>
+	</div>
+	<div>
+		<canvas id="statusLayer" width="1000" height="200"></canvas>
+	</div>
+
+	
+	<script language="JavaScript" type="text/javascript" src="js/rawMap.js"></script>
+	<script language="JavaScript" type="text/javascript" src="js/helperFunc.js"></script>
+	<script language="JavaScript" type="text/javascript" src="js/gameInit.js"></script>
+	<script language="JavaScript" type="text/javascript" src="js/character.js"></script>
+	<script language="JavaScript" type="text/javascript" src="js/mazegame.js"></script>
+	<!-- <script language="JavaScript" type="text/javascript" src="js/map.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,28 @@
+canvas {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: transparent;
+}
+
+#grassLayer {
+  	z-index: -1;
+}
+
+
+
+#ghostLayer {
+  	z-index: 0;
+}
+
+#playerLayer {
+  	z-index: 0;
+}
+
+
+
+#statusLayer {
+	display: block,
+	background-image: url("../img/status_bg.jpg");
+  	z-index: -1;
+}
