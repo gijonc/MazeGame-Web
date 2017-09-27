@@ -1,5 +1,4 @@
-# MazeGame-Web
-URL->
+# MazeGame-Web --- http://web.engr.oregonstate.edu/~luojio
 
 This is an individual project created by me, this project runs like a pac-man game with multiple levels/maps.
 
