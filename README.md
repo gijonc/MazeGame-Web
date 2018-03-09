@@ -1,4 +1,4 @@
-### MazeGame-Web --- http://web.engr.oregonstate.edu/~luojio
+### MazeGame-Web --- http://web.engr.oregonstate.edu/~luojio/MazeGame/
 
 ### still in progress...
 
